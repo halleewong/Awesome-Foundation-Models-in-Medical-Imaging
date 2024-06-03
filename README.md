@@ -277,6 +277,16 @@ We strongly encourage authors of relevant works to make a pull request and add t
 ---
 #### Generalist
 
+**ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Biomedical Image**<br>
+*Hallee E. Wong, Marianne Rakic, John Guttag, Adrian V. Dalca*<br>
+[12th Dec., 2023] [arXiv, 2023]<br>
+[[Paper](https://arxiv.org/abs/2312.07381)] [[GitHub](https://github.com/halleewong/ScribblePrompt)]
+
+**UniverSeg: Universal Medical Image Segmentation**<br>
+*Victor Ion Butoi, Jose Javier Gonzalez Ortiz, Tianyu Ma, Mert R. Sabuncu, John Guttag, Adrian V. Dalca*<br>
+[ICCV 2023]<br>
+[[Paper](https://arxiv.org/abs/2304.06131)] [[GitHub](https://github.com/JJGO/UniverSeg)]
+
 **A foundation model for generalizable disease detection from retinal images**<br>
 *Yukun Zhou, Mark A. Chia, Siegfried K. Wagner, Murat S. Ayhan, Dominic J. Williamson, Robbert R. Struyven, Timing Liu, Moucheng Xu, Mateo G. Lozano, Peter Woodward-Court, Yuka Kihara, Andre Altmann, Aaron Y. Lee, Eric J. Topol, Alastair K. Denniston, Daniel C. Alexander, Pearse A. Keane*<br>
 [5th Oct., 2023] [Nature, 2023]<br>
@@ -311,3 +321,4 @@ We strongly encourage authors of relevant works to make a pull request and add t
 *Michael Moor, Oishi Banerjee, Zahra Shakeri Hossein Abad, Harlan M Krumholz, Jure Leskovec, Eric J Topol, Pranav Rajpurkar*<br>
 [12th Apr., 2023] [Nature, 2023]<br>
 [[Paper](https://www.nature.com/articles/s41586-023-05881-4)] 
+
